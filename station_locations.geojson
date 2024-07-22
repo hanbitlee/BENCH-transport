@@ -1,0 +1,3073 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.376628,
+                    48.211721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schwedenplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.367618,
+                    48.18136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Waldm\u00fcllerpark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.380441,
+                    48.206812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stubentor U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.385246,
+                    48.205847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Landstra\u00dfe - Wien Mitte S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.390281,
+                    48.218454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Praterstern S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.326461,
+                    48.190832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rustengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.36813,
+                    48.248272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Heiligenstadt S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.306901,
+                    48.198242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Breitensee S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.261813,
+                    48.198076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "H\u00fctteldorf  S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.356586,
+                    48.211441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rathaus U2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.338769,
+                    48.181161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hans-Mandl-Berufsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.33448,
+                    48.23737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "D\u00e4nenstra\u00dfe / BOKU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.312659,
+                    48.187201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schloss Sch\u00f6nbrunn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.395204,
+                    48.196678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eslarngasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.377147,
+                    48.194578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pl\u00f6\u00dflgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.351095,
+                    48.213164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sch\u00f6nbornpark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.367425,
+                    48.222729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rossauer L\u00e4nde U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.352461,
+                    48.219312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lazarettgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.310926,
+                    48.170578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Edelsinnstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.368227,
+                    48.199877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Karlsplatz U / TU Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.350981,
+                    48.197306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Amerlingstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.343998,
+                    48.210475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Albertgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.360781,
+                    48.21192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Universit\u00e4tsring"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.366685,
+                    48.209724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Herrengasse U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.35638,
+                    48.220335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sensengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.361403,
+                    48.173666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Belgradplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.360245,
+                    48.209923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rathausplatz / Burgtheater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.345801,
+                    48.18392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Arbeitergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.360193,
+                    48.221085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bauernfeldplatz / Palais Lichtenstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.376708,
+                    48.203384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Johannesgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.325099,
+                    48.233868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bischof-Faber-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.324922,
+                    48.160951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Am Sch\u00f6pfwerk U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.354893,
+                    48.225138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alserbachstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.398459,
+                    48.192988
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Petrusgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.394335,
+                    48.199234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wassergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.395998,
+                    48.2057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "L\u00f6wengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.400874,
+                    48.197069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kardinal-Nagl-Platz U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.3713,
+                    48.202161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "K\u00e4rntner Ring"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.372194,
+                    48.215972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schottenring U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.349122,
+                    48.207744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strozzigasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.335624,
+                    48.214561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yppengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.354862,
+                    48.168439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stefan-Fadinger-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.346523,
+                    48.215262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Br\u00fcnnlbadgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.374752,
+                    48.223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Obere Augartenstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.371572,
+                    48.197287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gu\u00dfhausstra\u00dfe / Argentinierstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.303146,
+                    48.165635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marschallplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.274813,
+                    48.192296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ober St. Veit U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.316414,
+                    48.203673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Auf der Schmelz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.327679,
+                    48.186805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grimmgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.328093,
+                    48.216137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Parhamerplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.30899,
+                    48.20359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kendlerstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.33459,
+                    48.221223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dornerplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.315256,
+                    48.22321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hernals S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.330241,
+                    48.19623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schmelzbr\u00fccke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.343735,
+                    48.221804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Michelbeuern-AKH U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.337543,
+                    48.223756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Johann-Nepomuk-Vogl-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.367069,
+                    48.192892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mayerhofgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.343241,
+                    48.201942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westbahnstra\u00dfe / Schottenfeldgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.399795,
+                    48.223192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Vorgartenstra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.414663,
+                    48.214384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Krieau U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.311806,
+                    48.211841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ottakring S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.363965,
+                    48.187123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hartmanngasse "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.440139,
+                    48.261666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Georg-Ehrlich-Weg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.406163,
+                    48.217295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Messe-Prater U2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.349121,
+                    48.194597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Loquaipark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.326586,
+                    48.21955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rosensteingasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.338321,
+                    48.18934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gumpendorfer G\u00fcrtel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.337419,
+                    48.203657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Burggasse-Stadthalle U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.337727,
+                    48.201034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Urban-Loritz-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.29393,
+                    48.19853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hanusch Krankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.337344,
+                    48.195315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westbahnhof S U / Gerstnerstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.31846,
+                    48.194063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wieningerplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.329897,
+                    48.202473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Markgraf-R\u00fcdiger Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.327151,
+                    48.199892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Plunkergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.323095,
+                    48.196802
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Selzergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.3377,
+                    48.197958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westbahnhof S U / Felberstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.355224,
+                    48.176146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kundratstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.371831,
+                    48.173447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Arthaberplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.379649,
+                    48.215683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Karmeliterplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.330869,
+                    48.205827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fr\u00f6belgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.378663,
+                    48.172937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Reumannplatz U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.330753,
+                    48.214001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brestelgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.337984,
+                    48.207995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Thaliastra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.353124,
+                    48.231717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nussdorfer Stra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.332358,
+                    48.218034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elterleinplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.354359,
+                    48.229011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Canisiusgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.337131,
+                    48.217217
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Palffygasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.329505,
+                    48.231029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gersthof S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.351143,
+                    48.189633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Reinprechtsdorfer Br\u00fccke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.352486,
+                    48.202223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Siebensternplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.352986,
+                    48.184975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Siebenbrunnenplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.328474,
+                    48.222824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rosensteingasse / Blumengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.373083,
+                    48.217784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schottenring U /Herminengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.33912,
+                    48.212106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Josefst\u00e4dter Stra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.379304,
+                    48.244111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Friedrich-Engels-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.380363,
+                    48.237487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dresdner Stra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.369919,
+                    48.235062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "J\u00e4gerstra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.383263,
+                    48.233821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Traisengasse S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.357468,
+                    48.196328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kettenbr\u00fcckengasse U "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.335125,
+                    48.228561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aumannplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.333886,
+                    48.18424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "L\u00e4ngenfeldgasse U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.3596,
+                    48.228936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Althanstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.361492,
+                    48.214558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schottentor U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.35093,
+                    48.198527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Neubaugasse U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.361117,
+                    48.202344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Museumsquartier U2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.318975,
+                    48.19834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Johnstrasse U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.334103,
+                    48.193083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Turnergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.344196,
+                    48.225707
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kutschkergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.420795,
+                    48.210893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stadion U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.347918,
+                    48.19126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Br\u00fcckengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.318802,
+                    48.21069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schuhmeierplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.319898,
+                    48.185845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sch\u00f6nbrunn U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.282246,
+                    48.167976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hermesstra\u00dfe / Oscar-Straus-Park "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.413837,
+                    48.184348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Modecenterstra\u00dfe / The Marks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.450206,
+                    48.250336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Am Langen Felde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.437758,
+                    48.241125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Schr\u00f6dingerplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.32107,
+                    48.141343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Meischlgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.413964,
+                    48.184929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "eLastenr\u00e4der- Modecenterstra\u00dfe / The Marks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.354936,
+                    48.192945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pilgramgasse U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.45065,
+                    48.250224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "eLastenr\u00e4der - Am langen Felde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.391516,
+                    48.227914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "eLastenr\u00e4der - Bruno-Marek-Allee 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.39209,
+                    48.224598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "eLastenr\u00e4der - Am Tabor 23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.33364,
+                    48.15011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Purkytgasse "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.360327,
+                    48.225991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Franz-Josef Bahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.352644,
+                    48.18142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Siebenbrunnenfeldgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.377393,
+                    48.233016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Klima Biennale - Nordwestbahn-Areal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.42316,
+                    48.181554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nussbaumallee / Campus Wiener Netze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.351456,
+                    48.170463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Wasserturm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.33807,
+                    48.178783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Wilhelmsdorfer Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.330037,
+                    48.198843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Reithofferpark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.349222,
+                    48.233299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - W\u00e4hringer Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.382374,
+                    48.211544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Julius-Raab-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.372983,
+                    48.210666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hoher Markt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.369702,
+                    48.202683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.3604,
+                    48.206516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Volksgarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.372111,
+                    48.207836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stephansplatz U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.382218,
+                    48.219522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Taborstra\u00dfe U2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.407665,
+                    48.212856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "WU-Campus / S\u00fcdportalstra\u00dfe "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.390221,
+                    48.210682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Klima Biennale Zentrale - Radetzky Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.384459,
+                    48.201628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bahngasse / mdw-University of Music and Performing Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.415318,
+                    48.190465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Erdberg U3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.404503,
+                    48.188763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Media Quarter Marx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.386578,
+                    48.194261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rennweg S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.389789,
+                    48.203416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rochusmarkt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.376962,
+                    48.198852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Schwarzenbergplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.363308,
+                    48.195304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Heum\u00fchlgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.343992,
+                    48.188489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Margareteng\u00fcrtel U4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.361331,
+                    48.189735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mittersteig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.342199,
+                    48.207702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ceija-Stojka-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.356442,
+                    48.205994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Volkstheater U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.343985,
+                    48.196724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Zieglergasse U3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.366349,
+                    48.219182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Berggasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.355172,
+                    48.215164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Frankhplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.365311,
+                    48.226825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Friedensbr\u00fccke U4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.35875,
+                    48.235289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Spittelau S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.386339,
+                    48.167276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alfred-B\u00f6hm-Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.383653,
+                    48.160985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Altes Landgut U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.385926,
+                    48.179521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bloch-Bauer-Promenade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.375631,
+                    48.186287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hauptbahnhof S U "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.375793,
+                    48.179192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Keplerplatz U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.389296,
+                    48.172123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Absberggasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.417358,
+                    48.185253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gasometer U3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.406785,
+                    48.174951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Geiselbergstra\u00dfe S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.420754,
+                    48.169601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Simmering S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.330812,
+                    48.180233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Niederhofstra\u00dfe U6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.302814,
+                    48.187739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hietzing U4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.338577,
+                    48.19681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westbahnhof S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.328049,
+                    48.210054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Richard-Wagner-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.3416,
+                    48.216588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alser Stra\u00dfe U6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.349795,
+                    48.225482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "W\u00e4hringer Stra\u00dfe U6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.348719,
+                    48.236591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gymnasiumstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.384797,
+                    48.24201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Handelskai S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.371579,
+                    48.229911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wallensteinplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.403725,
+                    48.267376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Br\u00fcnner Stra\u00dfe S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.400137,
+                    48.255621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Floridsdorf S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.447562,
+                    48.271948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Gro\u00dffeldsiedlung U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.42081,
+                    48.27113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Siemensstra\u00dfe S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.475255,
+                    48.223008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aspernstra\u00dfe U2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.464588,
+                    48.219878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Donauspital U2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.45357,
+                    48.229619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Erzherzog-Karl-Stra\u00dfe S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.486825,
+                    48.233624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hausfeldstra\u00dfe S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.433594,
+                    48.244086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kagran U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.498557,
+                    48.224719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Maria-Tusch-Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.44959,
+                    48.257535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rennbahnweg U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.423761,
+                    48.225856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sch\u00fcttauplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.44922,
+                    48.21978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stadlau U 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.415692,
+                    48.232362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "VIC Kaiserm\u00fchlen U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.443794,
+                    48.251071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kagraner Platz U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.317214,
+                    48.150204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alterlaa U6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.355089,
+                    48.188009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bacherplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.358912,
+                    48.191881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Margaretenplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.343611,
+                    48.169012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Carl-Appel-Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.348017,
+                    48.15468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Otto-Probst-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.401945,
+                    48.151915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Laaer Berg / Kurpark Nordeingang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.38247,
+                    48.15271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alaudagasse U1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.46573,
+                    48.15403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Svetelskystra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.42849,
+                    48.162067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wei\u00dfenb\u00f6ckstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.429984,
+                    48.171252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rohrhofergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.442269,
+                    48.154665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Zentralfriedhof 2. Tor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.420426,
+                    48.179565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Simoningplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.462393,
+                    48.14826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hauptwerkst\u00e4tte / Etrichstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.411067,
+                    48.179323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kultursommer24 - Zippererstra\u00dfe U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.316119,
+                    48.167527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hetzendorf S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.30589,
+                    48.154273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Auer-Welsbach-Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.330518,
+                    48.17048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pottendorfer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.320534,
+                    48.175409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gatterh\u00f6lzl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.282425,
+                    48.17377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Speising S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.332566,
+                    48.208195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hasnerstra\u00dfe / Hofferplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.306062,
+                    48.220455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nietzscheplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.319961,
+                    48.217837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wattgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.342947,
+                    48.255793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grinzing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.320682,
+                    48.24376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glanzing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.344711,
+                    48.244386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oberd\u00f6bling S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.410042,
+                    48.278108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kantergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.451058,
+                    48.278087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Leopoldau S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.430805,
+                    48.25227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Josef-Baumann-Gasse / Vetmeduni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.414226,
+                    48.253115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fultonstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.392704,
+                    48.27059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hopfengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.387658,
+                    48.262127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jedlesee / Bellgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.383093,
+                    48.271593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Audorfgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.386725,
+                    48.291646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strebersdorf S / Edmund-Hawranek-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.446051,
+                    48.239676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bernoullistra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.47486,
+                    48.213389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stavangergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.456443,
+                    48.224906
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hans-Steger-Gasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.470367,
+                    48.232992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hirschstetten S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.472797,
+                    48.246187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jakob-Bindel-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.287907,
+                    48.146654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Atzgersdorf S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.310018,
+                    48.129845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Siebenhirten U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.316855,
+                    48.141515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Erlaaerstra\u00dfe U6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.313308,
+                    48.136398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Perfektastra\u00dfe U6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.260386,
+                    48.196133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "H\u00fctteldorf / Hackinger Steg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.395483,
+                    48.21785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Praterstern Ausstellungsstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.283428,
+                    48.134253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Liesing S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.504943,
+                    48.234002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aspern Nord S U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.504506,
+                    48.226515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Seepark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.507619,
+                    48.224865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Seestadt U"
+            }
+        }
+    ]
+}
